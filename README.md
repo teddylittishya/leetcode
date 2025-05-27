@@ -7,4 +7,5 @@ Leetocde 75
 4. Greatest_Common_Divisor_of_Strings
 5. Reverse Vowels of a String
   #### Two Pointers
-6. Move zeroes
+6. Move zeroes 283
+7. Is Subsquence 392
